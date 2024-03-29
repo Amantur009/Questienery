@@ -126,4 +126,11 @@ public class Main {
         System.out.println("210-218: 75%");
         System.out.println("219-240: 100%");
     }
+
+    public void get() {
+        System.out.println("Hello");
+    }
 }
+
+
+
